@@ -120,7 +120,6 @@ All Python dependencies are listed in `requirements.txt`. Key ones include:
 
 - `requests`
 - `colorama`
-- `rich`
 
 Install them with:
 
